@@ -1,4 +1,4 @@
-package com.example.k.cssoundboard;
+package com.example.k.cs_soundboard;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
