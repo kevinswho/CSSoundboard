@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CS Soundboard</string>
+    <string name="exam_grade">When you get your exam grade back</string>
+    <string name="didnt_finish">When you have to submit an unfinished project</string>
+    <string name="final_moments">The last 10 seconds of a project/exam</string>
+    <string name="pirates">When you\'re onto something</string>
+    <string name="happiness">Finishing a project successfully</string>
+    <string name="wtf">Failing public tests</string>
+    <string name="stop">STOP</string>
+    <string name="poopsong">Potty break from a project</string>
+</resources>
